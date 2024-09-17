@@ -1,0 +1,9 @@
+Tokeniz- Process of translating strings or test into tokens.
+LLama - was trained on trillion tokens of data.
+
+-Mutiple digits single token or multiple tokens - Arbitrary tokenization in tiktokenizer
+same word with different tokens are possible - EGG , egg -  Egg - Source tiktokenizer
+-Non english text is being stretched out in the perspective of a transformer and that the transformer
+is running out of context while translation - This has to do with the training set used for the tokenizer
+which builds bigger tokens.
+-
